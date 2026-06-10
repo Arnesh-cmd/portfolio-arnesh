@@ -1,0 +1,12 @@
+.about {
+  background: var(--bg-elevated);
+  border-block: 1px solid var(--border);
+}
+
+.about__text {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  line-height: 1.8;
+  max-width: 600px;
+  margin-inline: auto;
+}

@@ -1,0 +1,30 @@
+.skills {
+  background: var(--bg-elevated);
+  border-block: 1px solid var(--border);
+}
+
+.skills__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2.5rem;
+  list-style: none;
+}
+
+.skills__item {
+  padding: 0.85rem 1.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: border-color 0.25s ease, color 0.25s ease, transform 0.25s ease, background 0.25s ease;
+}
+
+.skills__item:hover {
+  border-color: var(--orange);
+  color: var(--orange);
+  background: var(--orange-dim);
+  transform: translateY(-4px);
+}

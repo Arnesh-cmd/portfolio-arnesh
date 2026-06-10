@@ -1,0 +1,13 @@
+.footer {
+  padding-block: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.footer__inner {
+  text-align: center;
+}
+
+.footer__copy {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
