@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Arnesh Dheeman Saha',
-  title: 'Aspiring Software Developer',
+  title: 'Aspiring Tech Entrepreneur',
   intro:
     'I am passionate about technology, software development, and entrepreneurship. I enjoy building projects that solve real-world problems and continuously learning new skills in programming, AI, and web development.',
   email: 'arneshdheemansaha@gmail.com',
@@ -15,7 +15,7 @@ export const navLinks = [
 ]
 
 export const aboutText =
-  'I am an aspiring software developer and tech enthusiast passionate about building real-world projects. I enjoy working with web development, AI, and embedded systems like ESP32. I like learning by building, experimenting with ideas, and improving my skills through practical projects such as an AI-based pneumonia detector and IoT experiments.'
+  'I am an aspiring tech entrepreneur and passionate about building real-world projects. I enjoy working with web development, AI, and embedded systems like ESP32. I like learning by building, experimenting with ideas, and improving my skills through practical projects such as an AI-based pneumonia detector and IoT experiments.'
 
 export const projects = [
   {
